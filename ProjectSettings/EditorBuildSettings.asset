@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FaceDetectionScene.unity
     guid: cb15f48e90f916c4992ec2b68c4ed91f
+  - enabled: 1
+    path: Assets/Scenes/ImageDetectionScene.unity
+    guid: 47f8bf5652e968a46a82b6dd32249358
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b8230697094385e40bebf4eee9106df0, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0d15b3501d9b83b4eb5f31d84c7a5b14, type: 2}
